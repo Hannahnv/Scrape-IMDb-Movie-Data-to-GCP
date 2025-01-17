@@ -17,7 +17,7 @@ Extract data from [IMDb website](https://www.imdb.com/search/title/?title_type=f
 * Plot_Summary
 
 ## 📖 Tutorial
-For a detailed guide on implementing this project, refer to the [tutorial article here](https://medium.com/ai-advances/how-i-scraped-10k-imdb-movies-and-stored-them-on-gcp-effortlessly-246d348360f0)
+For a detailed guide on implementing this project, refer to the [tutorial article here](https://medium.com/ai-advances/how-i-scraped-10k-imdb-movies-and-stored-them-on-gcp-effortlessly-246d348360f0).
 
 ## 📜 Prerequisites
 Before running the project, ensure you have the following set up:
