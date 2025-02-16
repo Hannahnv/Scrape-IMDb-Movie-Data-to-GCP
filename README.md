@@ -1,5 +1,5 @@
 # Scrape IMDb Movie Data to the GCP Platform 🚀
-This project focuses on extracting movie data from IMDb using Selenium and seamlessly storing it in Google Cloud Platform (GCP) for [visualization using Plotly and personalized movie recommendations on Streamlit](https://github.com/Hannahnv/IMDb-Movies-Dashboard-Recommender-App).
+This project focuses on extracting movie data from IMDb using Selenium and seamlessly storing it in Google Cloud Platform (GCP) for visualization using Plotly and personalized movie recommendations on Streamlit [here](https://github.com/Hannahnv/IMDb-Movies-Dashboard-Recommender-App).
 
 ## 📋 Project Overview
 The primary goal is to automate the scraping of movie data, ensuring efficient data extraction and storage in GCP. This setup is ideal for building pipelines for movie-related analytics or projects.
@@ -17,7 +17,7 @@ Extract data from [IMDb website](https://www.imdb.com/search/title/?title_type=f
 * Plot_Summary
 
 ## 📖 Tutorial
-For a detailed guide on implementing this project, refer to the [tutorial article on Medium here](https://medium.com/ai-advances/how-i-scraped-10k-imdb-movies-and-stored-them-on-gcp-effortlessly-246d348360f0).
+For a detailed guide on implementing this project, refer to the **tutorial article on Medium** [here](https://medium.com/ai-advances/how-i-scraped-10k-imdb-movies-and-stored-them-on-gcp-effortlessly-246d348360f0).
 
 ## 📜 Prerequisites
 Before running the project, ensure you have the following set up:
